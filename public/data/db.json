@@ -1,0 +1,258 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Men's Casual Shirt",
+      "price": 29.99,
+      "category": "men",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231121/Uods/655ca52aafa4cf41f5959ee9/-1117Wx1400H-469569413-white-MODEL2.jpg",
+      "description": "A comfortable and stylish casual shirt perfect for everyday wear."
+    },
+    {
+      "id": "2",
+      "name": "Men's Slim Fit Jeans",
+      "price": 49.99,
+      "category": "men",
+      "image": "https://www.americaneagle.com.eg/assets/styles/AmericanEagle/0116_6494_432/image-thumb__1094515__product_listing/0116_6494_432_of.jpg",
+      "description": "Trendy slim fit jeans with a modern look and perfect fit."
+    },
+    {
+      "id": "3",
+      "name": "Men's Leather Jacket",
+      "price": 119.99,
+      "category": "men",
+      "image": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/994922/1.jpg?6872",
+      "description": "A sleek leather jacket that adds a touch of sophistication to any outfit."
+    },
+    {
+      "id": "4",
+      "name": "Men's Sports Watch",
+      "price": 79.99,
+      "category": "men",
+      "image": "https://sunglassescraft.com/cdn/shop/products/0_2019-New-SANDA-739-Sports-Men-s-Watches-Top-Brand-Luxury-Military-Quartz-Watch-Men-Waterproof_1_1024x1024@2x.jpg?v=1574612879",
+      "description": "Durable and stylish sports watch suitable for any active lifestyle."
+    },
+    {
+      "id": "5",
+      "name": "Men's Classic Suit",
+      "price": 199.99,
+      "category": "men",
+      "image": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwd76cbf3c/hi-res/SUB0506CHA_MODEL_FULL.jpg?sw=430&sh=538&sm=fit&q=42",
+      "description": "A timeless classic suit that exudes elegance and professionalism."
+    },
+    {
+      "id": "6",
+      "name": "Women's Summer Dress",
+      "price": 39.99,
+      "category": "women",
+      "image": "https://m.media-amazon.com/images/I/81j17qZnQrL._AC_UY1000_.jpg",
+      "description": "A breezy summer dress that's perfect for warm weather and outdoor events."
+    },
+    {
+      "id": "7",
+      "name": "Women's High Heel Shoes",
+      "price": 59.99,
+      "category": "women",
+      "image": "https://img.kwcdn.com/product/fancy/a34a85c2-7b3d-4129-8bda-6f819e7fa204.jpg?imageView2/2/w/500/q/60/format/webp",
+      "description": "Elegant floral maxi dress ideal for both casual and formal occasions."
+    },
+    {
+      "id": "8",
+      "name": "Women's Casual Blouse",
+      "price": 34.99,
+      "category": "women",
+      "image": "https://i5.walmartimages.com/seo/EASTHER-Women-s-Business-Casual-Tops-Summer-Long-Sleeve-Silk-Button-Down-Shirts-V-Neck-Chiffon-Blouses_727921c6-bcc1-4032-a5a6-54424adb9562.42e252e1d58f0b8319032c23222f88f5.jpeg",
+      "description": "Classic denim jacket that adds a chic touch to any outfit."
+    },
+    {
+      "id": "9",
+      "name": "Women's Leather Handbag",
+      "price": 89.99,
+      "category": "women",
+      "image": "https://dynamic.zacdn.com/NZk-uqT7275iH1daCl_QjDfg9K4=/filters:quality(70):format(webp)/https://static-sg.zacdn.com/p/lara-9851-8163651-2.jpg",
+      "description": "Stylish leather handbag that combines functionality with high fashion."
+    },
+    {
+      "id": "10",
+      "name": "Women's Winter Coat",
+      "price": 129.99,
+      "category": "women",
+      "image": "https://i.etsystatic.com/5609612/r/il/00469d/3244153771/il_570xN.3244153771_5c6j.jpg",
+      "description": "Comfortable and trendy sneakers for everyday wear and casual outings."
+    },
+    {
+      "id": "11",
+      "name": "Men's Polo Shirt",
+      "price": 24.99,
+      "category": "men",
+      "image": "https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_704765_plc&qlt=85&qlt=92&w=320&h=408&v=1&fmt=auto",
+      "description": "Warm wool coat perfect for cold weather and stylish layering."
+    },
+    {
+      "id": "12",
+      "name": "Men's Chinos",
+      "price": 39.99,
+      "category": "men",
+      "image": "https://www.roddandgunn.com/dw/image/v2/BBRS_PRD/on/demandware.static/-/Sites-roddandgunn-master-catalog/default/dwc913ca7e/images/007173/VP0611_PEBBLE_FT_LGE.jpg?sw=811&sh=1000&sm=fit",
+      "description": "Versatile sneakers that offer both comfort and style for everyday use."
+    },
+    {
+      "id": "13",
+      "name": "Men's Denim Jacket",
+      "price": 89.99,
+      "category": "men",
+      "image": "https://images.wrangler.com/is/image/Wrangler/112338564-HERO?$KDP-XXLARGE$",
+      "description": "Soft and cozy hooded sweatshirt, great for layering or lounging."
+    },
+    {
+      "id": "14",
+      "name": "Men's Sunglasses",
+      "price": 49.99,
+      "category": "men",
+      "image": "https://assets.ajio.com/medias/sys_master/root/hf8/h96/11599016493086/-473Wx593H-460229325-blue-MODEL.jpg",
+      "description": "Classic polo shirt with a comfortable fit, perfect for casual outings."
+    },
+    {
+      "id": "15",
+      "name": "Men's Dress Shoes",
+      "price": 89.99,
+      "category": "men",
+      "image": "https://cdn.selldone.com/app/shops/4621/articles/2021NewFashionMensBusinessCasualBanquetDressShoesBrownPUClassicHandmadeThreeStitchingjpgQ90jpgwebpa7b48e9e14b3cdd663e4114d6e85c4b4.webp",
+      "description": "Stylish chinos that offer a blend of comfort and sophistication."
+    },
+    {
+      "id": "16",
+      "name": "Women's Evening Gown",
+      "price": 149.99,
+      "category": "women",
+      "image": "https://img.perniaspopupshop.com/catalog/product/r/o/ROQA112316_1.jpg?impolicy=listingimagenew",
+      "description": "Tailored blazer that adds a polished look to any outfit."
+    },
+    {
+      "id": "17",
+      "name": "Women's Flats",
+      "price": 39.99,
+      "category": "women",
+      "image": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/b6495c1796866e418b47423b817f7bd8.jpg?imageView2/2/w/500/q/60/format/webp",
+      "description": "Casual baseball cap to complete your everyday look."
+    },
+    {
+      "id": "18",
+      "name": "Women's Cardigan",
+      "price": 49.99,
+      "category": "women",
+      "image": "https://dfcdn.defacto.com.tr/376/A5434AX_23CW_BG300_01_02.jpg",
+      "description": "Comfortable joggers suitable for both lounging and active wear."
+    },
+    {
+      "id": "19",
+      "name": "Women's Tote Bag",
+      "price": 59.99,
+      "category": "women",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/17/649/XL_p0172564917.jpg",
+      "description": "Versatile long sleeve top ideal for layering or wearing alone."
+    },
+    {
+      "id": "20",
+      "name": "Women's Trench Coat",
+      "price": 119.99,
+      "category": "women",
+      "image": "https://shopthecurated.net/cdn/shop/products/S54-THECLASSICTRENCH-KHAKI-22529-ShopTheCurated-D1-9189_2e354118-cb33-4cc3-84b0-a42511845789.jpg?v=1712667854",
+      "description": "Insulated winter coat designed to keep you warm during colder months."
+    },
+    {
+      "id": "21",
+      "name": "Men's Crew Neck T-Shirt",
+      "price": 19.99,
+      "category": "men",
+      "image": "https://images.bestsellerclothing.in/data/selected/09-Aug-2023/250135204_1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+      "description": "Stylish sunglasses to add a fashionable touch to your sunny day outfits."
+    },
+    {
+      "id": "22",
+      "name": "Men's Cargo Pants",
+      "price": 44.99,
+      "category": "men",
+      "image": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/31/821883/1.jpg?4407",
+      "description": "Elegant formal shirt suitable for business and special occasions."
+    },
+    {
+      "id": "23",
+      "name": "Men's Windbreaker",
+      "price": 79.99,
+      "category": "men",
+      "image": "https://jcpenney.scene7.com/is/image/JCPenney/DP0914202309030707M?hei=350&wid=350&op_usm=.4%2C.8%2C0%2C0&resmode=sharp2&op_sharpen=1",
+      "description": "Classic dress shoes that complete your formal attire with sophistication."
+    },
+    {
+      "id": "24",
+      "name": "Men's Beanie",
+      "price": 19.99,
+      "category": "men",
+      "image": "https://www.ubuy.com.eg/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFrNWJrQnFxOEwuX0FDX1NMMTUwMF8uanBn.jpg",
+      "description": "Durable cargo shorts with multiple pockets for practicality and style."
+    },
+    {
+      "id": "25",
+      "name": "Men's Casual Loafers",
+      "price": 69.99,
+      "category": "men",
+      "image": "https://ae01.alicdn.com/kf/S1bdeb6f4768140629b5ed469d9789799V/Loafers-Shoes-for-Men-Brown-Fringe-Pu-Handmade-Slip-on-Casual-Zapatos-De-Vestir-Hombre-Shoes.jpg",
+      "description": "Trendy graphic t-shirt featuring unique designs and comfortable fit."
+    },
+    {
+      "id": "26",
+      "name": "Women's Fit & Flare Dress",
+      "price": 59.99,
+      "category": "women",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/11/362429385/KS/TS/JI/78933847/popwings-women-casual-dark-green-paisely-printed-fit-flare-dress.jpg",
+      "description": "Stylish ankle boots that add a chic touch to your outfit."
+    },
+    {
+      "id": "27",
+      "name": "Women's Ankle Boots",
+      "price": 89.99,
+      "category": "women",
+      "image": "https://images-cdn.ubuy.com.eg/669b55150e5fb63a410e67cf-leather-boots-women-ankle-boots.jpg",
+      "description": "Cozy cardigan perfect for layering over your favorite outfits."
+    },
+    {
+      "id": "28",
+      "name": "Women's Puffer Vest",
+      "price": 69.99,
+      "category": "women",
+      "image": "https://content.api.news/v3/images/bin/7910e203f7375afba06b8e336ba49379",
+      "description": "Elegant skirt suitable for both casual and formal occasions."
+    },
+    {
+      "id": "29",
+      "name": "Women's Satchel Bag",
+      "price": 74.99,
+      "category": "women",
+      "image": "https://m.media-amazon.com/images/I/71yg850bs8L._AC_SL1500_.jpg",
+      "description": "Fashionable high heels that elevate your look for special events."
+    },
+    {
+      "id": "30",
+      "name": "Women's Wool Scarf",
+      "price": 34.99,
+      "category": "women",
+      "image": "https://dukaan.b-cdn.net/700x700/webp/download-and-upload/da6fcb29-fa39-46bb-b4c4-ce9c8128d8fc.jpeg",
+      "description": "Warm winter boots designed to keep your feet comfortable and dry in cold weather."
+    }
+  ],
+  "users": [
+    {
+      "id": "51f7",
+      "username": "mohamed",
+      "email": "mohamed10@yahoo.com",
+      "password": "123456"
+    },
+    {
+      "id": "9081",
+      "username": "MOHAMED",
+      "email": "mo10@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
